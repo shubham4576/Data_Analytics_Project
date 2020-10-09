@@ -1,4 +1,4 @@
-# Data_Analytics_Project
+# Terroris Analysis With Insights
 
 Protective resources are less in numbers with the Army and are distributed uniformly
 across the area. Similarly Explosive Detection Dogs ( ED Dogs ) are only less in the
